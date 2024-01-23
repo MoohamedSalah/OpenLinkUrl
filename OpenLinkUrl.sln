@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLinkUrl", "OpenLinkUrl\OpenLinkUrl.csproj", "{FAB49E2D-875D-44F1-84C9-EF8FDB6AB18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB49E2D-875D-44F1-84C9-EF8FDB6AB18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB49E2D-875D-44F1-84C9-EF8FDB6AB18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB49E2D-875D-44F1-84C9-EF8FDB6AB18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB49E2D-875D-44F1-84C9-EF8FDB6AB18F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67B3CF93-D06B-474F-BB80-8CC5E9D135B0}
+	EndGlobalSection
+EndGlobal
